@@ -1,43 +1,33 @@
 <div align="center">
 
-<!-- Animated Hero Banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header.svg">
-  <img src="./assets/header.svg" width="100%" alt="Rudra Sharma - AI & Data Engineer" />
-</picture>
+# ⚡ Rudra Sharma
+### **AI & Data Engineer · Full-Stack Builder · Automation Architect**
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=3000&pause=1000&color=22D3C7&center=true&vCenter=true&width=650&lines=Building+Production+RAG+%26+AI+Agents;Architecting+Data+Pipelines+%26+Automation;Creator+of+VoxContextEngine+%26+Finova;Turning+Complex+Problems+Into+Clean+Solutions)](https://rudrasharma3.github.io/Portfolio/)
 
-<!-- Dynamic Interactive Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=19&duration=2800&pause=900&color=22D3C7&center=true&vCenter=true&width=680&lines=⚡+Engineering+Durable+Multi-Agent+AI-OS+Platforms;⚡+Building+Context-Locked+RAG+with+Qdrant+%26+BM25;⚡+Architecting+Distributed+Pipelines+with+Spark+%26+Databricks;⚡+FastAPI+Microservices+with+PostgreSQL+RLS)](https://rudrasharma3.github.io/Portfolio/)
-
-<br/>
-
-<!-- Modern Sleek Connect Pill Links (No outdated blocky shields) -->
 <p align="center">
-  <a href="https://rudrasharma3.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-rudrasharma.dev-0D1117?style=flat-square&logo=googlechrome&logoColor=22D3C7&labelColor=161B22" alt="Portfolio" />
-  </a>
+  <a href="https://rudrasharma3.github.io/Portfolio/"><img src="https://img.shields.io/badge/🌐_Portfolio-rudrasharma.dev-4C6FFF?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio" /></a>
   &nbsp;
-  <a href="https://freelance-kappa-orpin.vercel.app/">
-    <img src="https://img.shields.io/badge/⚡_Freelance_Platform-Live_Services-0D1117?style=flat-square&logo=vercel&logoColor=34D399&labelColor=161B22" alt="Freelance Site" />
-  </a>
+  <a href="https://freelance-kappa-orpin.vercel.app/"><img src="https://img.shields.io/badge/⚡_Freelance_Platform-Live_Services-22D3C7?style=flat-square&logo=vercel&logoColor=black" alt="Freelance Site" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/rudra-sharma-3508a227b">
-    <img src="https://img.shields.io/badge/👔_LinkedIn-Rudra_Sharma-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=161B22" alt="LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/rudra-sharma-3508a227b"><img src="https://img.shields.io/badge/👔_LinkedIn-Rudra_Sharma-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="mailto:rudrasharma93511@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Email-rudrasharma93511@gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=161B22" alt="Email" />
-  </a>
+  <a href="mailto:rudrasharma93511@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-rudrasharma93511@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects%20%26%20Freelance-34D399?style=flat-square&logo=signal&logoColor=white" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Jaipur%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3-8B5CF6?style=flat-square" alt="Location" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Production%20AI%20%26%20RAG-4C6FFF?style=flat-square" alt="Focus" />
+</p>
 
 ---
 
-### 👨‍💻 Executive Summary
+</div>
+
+## 👨‍💻 Executive Summary
 
 I am an **AI & Data Engineer** specializing in **Retrieval-Augmented Generation (RAG)**, **distributed data pipelines**, and **contract-first multi-agent systems**.
 
@@ -48,7 +38,7 @@ I am an **AI & Data Engineer** specializing in **Retrieval-Augmented Generation 
 
 ---
 
-### 🛠️ Interactive Tech Stack
+## 🛠️ Interactive Tech Stack
 
 <div align="center">
 
@@ -89,7 +79,7 @@ I am an **AI & Data Engineer** specializing in **Retrieval-Augmented Generation 
 
 ---
 
-### 🚀 Featured Engineering Systems
+## 🚀 Featured Engineering Systems
 
 <table>
   <tr>
@@ -139,59 +129,50 @@ I am an **AI & Data Engineer** specializing in **Retrieval-Augmented Generation 
 
 ---
 
-### 📊 GitHub Activity & Real-Time Metrics
+## 📊 GitHub Activity & Real-Time Metrics
 
 <div align="center">
 
 <table border="0">
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=RudraSharma3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0D14&title_color=22D3C7&icon_color=4C6FFF&text_color=94A3B8&count_private=true&include_all_commits=true" width="100%" alt="Rudra's GitHub Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RudraSharma3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="Rudra's GitHub Stats" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://streak-stats.demolab.com?user=RudraSharma3&theme=tokyonight&hide_border=true&background=0A0D14&ring=22D3C7&fire=4C6FFF&currStreakLabel=22D3C7" width="100%" alt="Rudra's Streak Stats" />
+      <img src="https://streak-stats.demolab.com?user=RudraSharma3&theme=tokyonight&hide_border=true" width="100%" alt="Rudra's Streak Stats" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudraSharma3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0D14&title_color=22D3C7&text_color=94A3B8&langs_count=8" width="75%" alt="Top Languages" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RudraSharma3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="75%" alt="Top Languages" />
     </td>
   </tr>
 </table>
-
-<br/>
-
-### 🏆 GitHub Trophies Showcase
-<img src="https://github-profile-trophy.vercel.app/?username=RudraSharma3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-### 🤝 Let's Connect & Collaborate
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
 <p align="center">
   <a href="https://freelance-kappa-orpin.vercel.app/">
-    <img src="https://img.shields.io/badge/⚡_Start_a_Project-freelance--kappa--orpin.vercel.app-22D3C7?style=flat-square&logo=vercel&logoColor=000&labelColor=161B22" alt="Start a Project" />
+    <img src="https://img.shields.io/badge/⚡_Start_a_Project-freelance--kappa--orpin.vercel.app-22D3C7?style=flat-square&logo=vercel&logoColor=000" alt="Start a Project" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/rudra-sharma-3508a227b">
-    <img src="https://img.shields.io/badge/👔_Connect_on_LinkedIn-Rudra_Sharma-0077B5?style=flat-square&logo=linkedin&logoColor=fff&labelColor=161B22" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/👔_Connect_on_LinkedIn-Rudra_Sharma-0077B5?style=flat-square&logo=linkedin&logoColor=fff" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:rudrasharma93511@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Send_Email-rudrasharma93511@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=fff&labelColor=161B22" alt="Email" />
+    <img src="https://img.shields.io/badge/✉️_Send_Email-rudrasharma93511@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=fff" alt="Email" />
   </a>
 </p>
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=RudraSharma3&icon=5&color=4C6FFF)](https://visitcount.itsvg.in)
-
-<br/>
-
-<sub>Crafted with custom animated SVGs &amp; Tokyo Night dark glass aesthetic.</sub>
+<img src="https://komarev.com/ghpvc/?username=RudraSharma3&color=4C6FFF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
