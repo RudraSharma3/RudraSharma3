@@ -3,7 +3,7 @@
 # ⚡ Rudra Sharma
 ### **AI & Data Engineer · Full-Stack Builder · Automation Architect**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=3000&pause=1000&color=22D3C7&center=true&vCenter=true&width=650&lines=Building+Production+RAG+%26+AI+Agents;Architecting+Data+Pipelines+%26+Automation;Creator+of+VoxContextEngine+%26+Finova;Turning+Complex+Problems+Into+Clean+Solutions)](https://rudrasharma3.github.io/Portfolio/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=3000&pause=1000&color=22D3C7&center=true&vCenter=true&width=650&lines=Building+Production+RAG+%26+AI+Agents;Architecting+Data+Pipelines+%26+Automation;Creator+of+VoxContextEngine+%26+AI-OS;Turning+Complex+Problems+Into+Clean+Solutions)](https://rudrasharma3.github.io/Portfolio/)
 
 <p align="center">
   <a href="https://rudrasharma3.github.io/Portfolio/"><img src="https://img.shields.io/badge/🌐_Portfolio-rudrasharma.dev-4C6FFF?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio" /></a>
@@ -16,11 +16,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects%20%26%20Freelance-34D399?style=flat-square&logo=signal&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20AI%20%26%20Data%20Engineering-34D399?style=flat-square&logo=signal&logoColor=white" alt="Status" />
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Jaipur%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3-8B5CF6?style=flat-square" alt="Location" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Production%20AI%20%26%20RAG-4C6FFF?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Primary_Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Primary Language: Python" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Certification-Azure_AI_Engineer_Associate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure AI Certified" />
 </p>
 
 ---
@@ -29,16 +31,18 @@
 
 ## 👨‍💻 Executive Summary
 
-I am an **AI & Data Engineer** specializing in **Retrieval-Augmented Generation (RAG)**, **distributed data pipelines**, and **contract-first multi-agent systems**.
+I am a **Computer Science (AIML) Engineer** specializing in building **scalable AI applications**, **high-performance data pipelines**, and **cloud-based intelligent backends**. 
 
-- 🔭 **Current Focus:** Engineering **AI-OS** (a repository-native operational layer for AI coding agents) and hybrid vector retrieval engines.
-- 💼 **Production Experience:** Built distributed automation and workbook ingestion pipelines at **BytePX** using **Databricks**, **Apache Spark**, and **IBM watsonx**; delivered **15+ custom solutions** across AI workflows and web platforms.
-- 💡 **Core Philosophy:** *"Don't just use AI to write code. Engineer the environment in which AI writes code."*
-- 💬 **Ask Me About:** FastAPI, RAG evaluation suites, Vector Databases, Spark/Databricks, Dockerized microservices, and Next.js 15.
+- 🐍 **Primary Engineering Language:** **Python** (FastAPI, PyTorch, Pandas, PySpark, Scikit-learn, XGBoost, LangChain).
+- 💼 **Industry Track Record:**
+  - **Data Engineering Intern at BytePX:** Architected *DataPurge Studio SaaS* processing multi-sheet workbooks in **< 2 min with 99.9% accuracy (15x–20x speedup)**; optimized memory via `io.BytesIO` and `rapidfuzz` (C++ layer) for **10x faster matching**; engineered Spark & Databricks automation slashing document parsing time by **90%**.
+  - **AI & ML Intern at UltraTech Cement [Birla White]:** Built *Birbal 2.0* multilingual enterprise RAG chatbot with FastAPI, cutting employee response latency by **95%** and boosting query efficiency by **60%**.
+  - **Generative AI Intern at SmartBridge:** Built GenAI architectures using FastAPI and Google Gemini APIs across VAEs, GANs, BERT, and LSTMs.
+- 💡 **Engineering Philosophy:** *"Don't just use AI to write code. Engineer the environment in which AI writes code."*
 
 ---
 
-## 🛠️ Interactive Tech Stack
+## 🛠️ Interactive Tech Matrix
 
 <div align="center">
 
@@ -51,26 +55,30 @@ I am an **AI & Data Engineer** specializing in **Retrieval-Augmented Generation 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 AI, LLM &amp; Vector Search</h4>
-      <code>PyTorch</code> · <code>TensorFlow</code> · <code>LangChain</code> · <code>Qdrant</code><br/>
-      <code>Hugging Face</code> · <code>Scikit-Learn</code> · <code>OpenCV</code> · <code>MLflow</code> · <code>SHAP</code>
+      <h4>🤖 AI, LLMs &amp; Machine Learning</h4>
+      <b>Primary:</b> <code>Python</code> · <code>PyTorch</code> · <code>Scikit-learn</code> · <code>XGBoost</code><br/>
+      <b>Generative AI:</b> <code>RAG</code> · <code>LangChain</code> · <code>LLMs</code> · <code>Qdrant</code> · <code>BM25</code><br/>
+      <b>Deep Learning:</b> <code>TensorFlow</code> · <code>VAEs</code> · <code>GANs</code> · <code>BERT</code> · <code>LSTMs</code> · <code>SHAP</code>
     </td>
     <td width="50%" valign="top">
-      <h4>⚡ Data &amp; Distributed Backend</h4>
-      <code>Apache Spark</code> · <code>PySpark</code> · <code>Databricks</code> · <code>FastAPI</code><br/>
-      <code>PostgreSQL RLS</code> · <code>Supabase</code> · <code>AsyncIO</code> · <code>Pandas</code> · <code>NumPy</code>
+      <h4>⚡ Data Engineering &amp; Distributed Systems</h4>
+      <b>Big Data:</b> <code>Apache Spark</code> · <code>PySpark</code> · <code>Databricks</code> · <code>Delta Lake</code><br/>
+      <b>Pipelines:</b> <code>ETL/ELT</code> · <code>Data Preparation</code> · <code>Data Validation</code><br/>
+      <b>Libraries:</b> <code>Pandas</code> · <code>NumPy</code> · <code>AsyncIO</code> · <code>io.BytesIO Streaming</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎨 Frontend &amp; Interfaces</h4>
-      <code>Next.js 15</code> · <code>React</code> · <code>TypeScript</code> · <code>Tailwind CSS</code><br/>
-      <code>Streamlit</code> · <code>Chart.js</code> · <code>JavaScript</code>
+      <h4>🏗️ Backend &amp; Cloud Infrastructure</h4>
+      <b>APIs &amp; Microservices:</b> <code>FastAPI</code> · <code>Flask</code> · <code>REST APIs</code> · <code>Starlette</code><br/>
+      <b>Databases:</b> <code>PostgreSQL</code> · <code>Supabase (RLS)</code> · <code>SQL</code><br/>
+      <b>Cloud &amp; DevOps:</b> <code>Microsoft Azure</code> · <code>Google Cloud (25+ Badges)</code> · <code>Docker</code> · <code>Git</code>
     </td>
     <td width="50%" valign="top">
-      <h4>🗄️ Cloud, DevOps &amp; Protocols</h4>
-      <code>Docker</code> · <code>Google Cloud (GCP)</code> · <code>Model Context Protocol (MCP)</code><br/>
-      <code>Git</code> · <code>GitHub Actions</code> · <code>ADRs</code> · <code>Vercel</code>
+      <h4>🎨 Frontend &amp; Interface Visualization</h4>
+      <b>Web Frameworks:</b> <code>Next.js 15</code> · <code>React</code> · <code>TypeScript</code> · <code>JavaScript</code><br/>
+      <b>Styling &amp; UI:</b> <code>Tailwind CSS</code> · <code>HTML5</code> · <code>CSS3</code><br/>
+      <b>Dashboards:</b> <code>Streamlit</code> · <code>Chart.js</code>
     </td>
   </tr>
 </table>
@@ -79,53 +87,98 @@ I am an **AI & Data Engineer** specializing in **Retrieval-Augmented Generation 
 
 ---
 
-## 🚀 Featured Engineering Systems
+## 🚀 Featured Engineering Systems & Research
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🧠 <a href="https://github.com/RudraSharma3">AI-OS — AI Operating System</a></h3>
-      <p><em>Repository-native operational layer for AI-assisted engineering.</em></p>
+      <p><em>Repository-native operational layer for AI-assisted software engineering.</em></p>
       <ul>
-        <li><b>Canonical Source of Truth:</b> Centralized <code>AGENTS.md</code> with lightweight provider adapters (<code>CLAUDE.md</code>, <code>GEMINI.md</code>, <code>CODEX.md</code>).</li>
-        <li><b>Gated Self-Modification:</b> Rule-gated candidate lessons evaluated before persistent promotion.</li>
-        <li><b>Contract-First Orchestration:</b> Manager/Worker agent topology establishing interface contracts before code generation.</li>
+        <li><b>Canonical Source of Truth:</b> Centralized <code>AGENTS.md</code> with thin provider adapters (<code>CLAUDE.md</code>, <code>GEMINI.md</code>, <code>CODEX.md</code>).</li>
+        <li><b>Gated Knowledge Promotion:</b> Rule-gated candidate lessons evaluated before promotion into persistent repository rules.</li>
+        <li><b>Contract-First Orchestration:</b> Manager/Worker agent topologies establishing type and API boundaries before generation.</li>
       </ul>
       <p><b>Stack:</b> <code>Python</code> · <code>MCP</code> · <code>Agent Protocols</code> · <code>Git</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>⚡ <a href="https://rudrasharma3.github.io/Portfolio/">VoxContextEngine — Hybrid RAG</a></h3>
-      <p><em>Context-locked RAG platform with automated hallucination defense.</em></p>
+      <p><em>Production document-grounded RAG engine with hallucination defense.</em></p>
       <ul>
-        <li><b>Hybrid Retrieval:</b> Dense vector search (<b>Qdrant</b> + <code>all-MiniLM-L6-v2</code>) fused with sparse keyword search (<b>Rank-BM25</b>).</li>
-        <li><b>Verification Harness:</b> Built automated benchmark testing context completeness.</li>
-        <li><b>Metric:</b> 100% safety run completeness in hallucination validation.</li>
+        <li><b>Hybrid Vector Search:</b> Dense similarity via <b>Qdrant</b> (<code>all-MiniLM-L6-v2</code> with HNSW indexing) + sparse <b>Rank-BM25</b> keyword search.</li>
+        <li><b>Verification Harness:</b> Automated Python evaluation suite benchmarking ingestion precision.</li>
+        <li><b>Outcome:</b> Achieved <b>100% safety run completeness</b> in hallucination tests.</li>
       </ul>
-      <p><b>Stack:</b> <code>FastAPI</code> · <code>Qdrant</code> · <code>Docker</code> · <code>BM25</code> · <code>Python</code></p>
+      <p><b>Stack:</b> <code>Python</code> · <code>FastAPI</code> · <code>Qdrant</code> · <code>Docker</code> · <code>BM25</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💳 <a href="https://rudrasharma3.github.io/Portfolio/">Vaultic — Financial Intelligence Engine</a></h3>
-      <p><em>Deterministic finance platform with AI advisory co-pilot.</em></p>
+      <h3>🧹 <a href="https://freelance-kappa-orpin.vercel.app/">DataPurge Studio SaaS</a></h3>
+      <p><em>Asynchronous multi-tenant enterprise data cleansing engine.</em></p>
       <ul>
-        <li><b>Data Isolation:</b> PostgreSQL engine with Supabase Row Level Security (RLS).</li>
-        <li><b>Hybrid Core:</b> Separates deterministic math from probabilistic AI advisory agents.</li>
-        <li><b>Scenario Sim:</b> Real-time cash flow &amp; goal affordability simulator.</li>
+        <li><b>Performance:</b> Processes complex multi-sheet workbooks in <b>< 2 minutes with 99.9% accuracy</b> (15x–20x speedup).</li>
+        <li><b>Engine Optimization:</b> Streamed data via <code>io.BytesIO</code> buffers, dynamic type downcasting, and <code>rapidfuzz</code> (C++ layer) for 10x faster fuzzy matching.</li>
       </ul>
-      <p><b>Stack:</b> <code>FastAPI</code> · <code>PostgreSQL</code> · <code>Supabase</code> · <code>Next.js 15</code></p>
+      <p><b>Stack:</b> <code>Python</code> · <code>FastAPI</code> · <code>PostgreSQL</code> · <code>Starlette</code> · <code>RapidFuzz</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧹 <a href="https://freelance-kappa-orpin.vercel.app/">DataPurge Studio — Data Engine</a></h3>
-      <p><em>Multi-tenant data cleaning &amp; pipeline preprocessing platform.</em></p>
+      <h3>🤖 <a href="https://rudrasharma3.github.io/Portfolio/">Birbal 2.0 — Enterprise Multilingual RAG</a></h3>
+      <p><em>AI-powered multilingual assistant for UltraTech Cement [Birla White].</em></p>
       <ul>
-        <li><b>High-Throughput ETL:</b> Automated detection of schema anomalies, duplicates, and missing values.</li>
-        <li><b>Production Ingestion:</b> Clean ingestion pipelines for multi-source datasets.</li>
+        <li><b>Latency Reduction:</b> Slashed query response time by <b>95%</b> via asynchronous NLP pipelines over technical documentation.</li>
+        <li><b>Bilingual State Tracking:</b> Native Hindi-English contextual state tracking, boosting query efficiency by <b>60%</b>.</li>
       </ul>
-      <p><b>Stack:</b> <code>Python</code> · <code>Pandas</code> · <code>NumPy</code> · <code>FastAPI</code> · <code>Docker</code></p>
+      <p><b>Stack:</b> <code>Python</code> · <code>FastAPI</code> · <code>LangChain</code> · <code>RAG</code> · <code>NLP</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 <a href="https://github.com/RudraSharma3">Delivery Date Prediction (500K+ Records)</a></h3>
+      <p><em>E-commerce supply chain ML forecasting engine.</em></p>
+      <ul>
+        <li><b>Model Optimization:</b> Trained optimized <b>XGBoost</b> predictive model across 500K+ historical shipment records.</li>
+        <li><b>Pipelines:</b> Engineered advanced feature scaling pipelines to capture supply-chain bottlenecks and minimize variance.</li>
+      </ul>
+      <p><b>Stack:</b> <code>Python</code> · <code>XGBoost</code> · <code>Scikit-learn</code> · <code>Pandas</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧬 <a href="https://github.com/RudraSharma3">Pneumonia &amp; Genomic ML Research</a></h3>
+      <p><em>Co-authored research paper on hybrid clinical diagnostics.</em></p>
+      <ul>
+        <li><b>Computer Vision:</b> Achieved <b>94% accuracy</b> on chest X-ray diagnosis using Convolutional Neural Networks (CNNs).</li>
+        <li><b>Polygenic Risk Score:</b> Applied logistic regression modeling to genomic sequences to predict multi-factor disorder risks.</li>
+      </ul>
+      <p><b>Stack:</b> <code>Python</code> · <code>PyTorch</code> · <code>CNNs</code> · <code>Biomedical ML</code></p>
     </td>
   </tr>
 </table>
+
+---
+
+## 💼 Industry Experience
+
+- **Data Engineering Intern** — **BytePX** *(March 2026 – Present)*
+  - Built *DataPurge Studio SaaS* processing workbooks in **< 2 min with 99.9% accuracy** (15x–20x speedup).
+  - Engineered Databricks & Apache Spark pipelines, including a resume converter slashing document processing by **90%**.
+  - Trained client Random Forest models with **SHAP explainable AI** to reduce marketing overhead by **50%**; deployed on **IBM watsonx**.
+  - Mentored 2 junior engineering interns on core Python, Spark dataframes, and Databricks clusters.
+
+- **AI & ML Intern** — **UltraTech Cement Ltd. [Birla White]** *(June 2025 – July 2025)*
+  - Engineered *Birbal 2.0* multilingual RAG chatbot with FastAPI, slashing response latency by **95%** and boosting operational query efficiency by **60%**.
+
+- **Generative AI Intern** — **SmartBridge** *(June 2025 – July 2025)*
+  - Built Generative AI architectures with FastAPI & Google Gemini APIs across VAEs, GANs, BERT, and LSTMs.
+
+---
+
+## 🎓 Education & Certifications
+
+- **University of Petroleum and Energy Studies (UPES), Dehradun**  
+  *B.Tech in Computer Science (Artificial Intelligence & Machine Learning)* · **CGPA: 8.0/10** *(2022 – 2026)*
+- **Microsoft Certified:** Azure AI Engineer Associate *(Credential ID: `957CF25F904A0B46`)*
+- **Google Cloud:** 25+ Google Cloud Skill Badges
+- **Competitive Programming:** 120+ DSA Problems Solved on LeetCode · Java Gold Badge on HackerRank
 
 ---
 
@@ -140,11 +193,6 @@ I am an **AI & Data Engineer** specializing in **Retrieval-Augmented Generation 
     </td>
     <td valign="top" width="50%">
       <img src="https://streak-stats.demolab.com?user=RudraSharma3&theme=tokyonight&hide_border=true" width="100%" alt="Rudra's Streak Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RudraSharma3&layout=compact&theme=tokyonight&hide_border=true&langs_count=4&hide=html,css,scss" width="85%" alt="Top Languages" />
     </td>
   </tr>
 </table>
