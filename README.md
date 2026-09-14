@@ -143,14 +143,18 @@ I am an **AI & Data Engineer** specializing in **Retrieval-Augmented Generation 
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RudraSharma3&layout=compact&theme=tokyonight&hide_border=true&langs_count=4&hide=html,css,scss" width="100%" alt="Top Languages" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RudraSharma3&theme=tokyonight&utcOffset=5.5" width="100%" alt="Productive Time Activity Graph" />
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RudraSharma3&layout=compact&theme=tokyonight&hide_border=true&langs_count=4&hide=html,css,scss" width="85%" alt="Top Languages" />
     </td>
   </tr>
 </table>
+
+<br/>
+
+### 🟩 365-Day Contribution Calendar Heatmap
+<p align="center">
+  <img src="https://ghchart.rshah.org/22D3C7/RudraSharma3" alt="Rudra Sharma's Contribution Heatmap" width="100%" />
+</p>
 
 </div>
 
