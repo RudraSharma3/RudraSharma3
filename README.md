@@ -1,181 +1,167 @@
-<div align="center">
+# Rudra Sharma
 
-# ⚡ Rudra Sharma
-### **AI & Data Engineer · Full-Stack Builder · Automation Architect**
+**AI & Data Engineer**  
+*AI Agents · LLM Systems · Data Engineering · Software Architecture*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=3000&pause=1000&color=22D3C7&center=true&vCenter=true&width=650&lines=Building+Production+RAG+%26+AI+Agents;Architecting+Data+Pipelines+%26+Automation;Creator+of+VoxContextEngine+%26+Finova;Turning+Complex+Problems+Into+Clean+Solutions)](https://rudrasharma3.github.io/Portfolio/)
-
-<p align="center">
-  <a href="https://rudrasharma3.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-rudrasharma.dev-4C6FFF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://freelance-kappa-orpin.vercel.app/"><img src="https://img.shields.io/badge/Freelance_Platform-Live_Services-22D3C7?style=for-the-badge&logo=vercel&logoColor=black" alt="Freelance Site" /></a>
-  <a href="https://www.linkedin.com/in/rudra-sharma-3508a227b"><img src="https://img.shields.io/badge/LinkedIn-Rudra_Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rudrasharma93511@gmail.com"><img src="https://img.shields.io/badge/Email-rudrasharma93511@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects%20%26%20Freelance-34D399?style=flat-square&logo=signal&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/Location-Jaipur%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3-8B5CF6?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-Production%20AI%20%26%20RAG-4C6FFF?style=flat-square" alt="Focus" />
-</p>
+[Portfolio](https://rudrasharma3.github.io/Portfolio/) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/rudra-sharma-3508a227b) &nbsp;|&nbsp; [GitHub](https://github.com/RudraSharma3) &nbsp;|&nbsp; [Email](mailto:rudrasharma93511@gmail.com)
 
 ---
 
-</div>
-
-## 👨‍💻 Executive Summary
-
-I am an **AI & Data Engineer** specializing in **Retrieval-Augmented Generation (RAG)**, **distributed data pipelines**, **machine learning workflows**, and **high-performance backend architectures**.
-
-- 🔭 **Current Focus:** Document-grounded AI systems, hybrid vector search (Qdrant + BM25), and agentic workflows.
-- 💼 **Freelance & Consulting:** Successfully delivered **15+ custom solutions** across AI integration, automated data engines, Next.js web applications, and career positioning technology.
-- 💡 **Engineering Philosophy:** *"Understand the problem before touching the solution."* Practical execution, clean architecture, and production-grade reliability over ungrounded hype.
-- 💬 **Ask Me About:** FastAPI, RAG evaluation suites, Vector Databases, MLflow, Dockerized microservices, Next.js, and PyTorch.
+I build data-intensive systems, retrieval platforms, and agentic workflows designed around clear architectural boundaries and deterministic validation. My work focuses on bridging data engineering foundations—such as distributed processing with Spark and Databricks—with modern AI engineering patterns, including Model Context Protocol (MCP), context persistence, and contract-first multi-agent orchestration.
 
 ---
 
-## 🛠️ 2026 Tech Matrix
+## 🧭 Currently Building & Researching
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🤖 AI, ML & Vector Retrieval</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/Qdrant-DC2626?style=flat-square&logo=qdrant&logoColor=white" />
-        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/SHAP-Explainable_AI-22D3C7?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">⚡ Backend & Data Pipelines</h3>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" />
-        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🎨 Frontend & Visualization</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-        <img src="https://img.shields.io/badge/Chart.js-F5788D?style=flat-square&logo=chart.js&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">🗄️ Databases, Cloud & DevOps</h3>
-      <p>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+- **AI-OS (AI Operating System):** An open research and engineering project establishing the Git repository as the durable operational layer for AI agents, replacing transient conversation memory with structured repository contracts.
+- **Contract-First Multi-Agent Systems:** Structuring manager/worker agent topologies that enforce interface contracts before code generation.
+- **Deterministic AI Workflows:** Designing systems that combine probabilistic LLM generation with deterministic data validation, schema enforcement, and rule-gated knowledge updates.
 
 ---
 
-## 🚀 Flagship Projects
+## 🛠️ Core Engineering Domains
 
-### 🧠 [VoxContextEngine — Hybrid RAG Platform](https://rudrasharma3.github.io/Portfolio/)
-> **Context-Locked Retrieval-Augmented Generation Platform with Hallucination Defense**
-- **Architecture:** Hybrid search engine pairing dense vector similarity (**Qdrant**, `all-MiniLM-L6-v2`, HNSW indexing) with sparse keyword retrieval (**Rank-BM25**).
-- **Core Features:** Automated evaluation harness for ingestion accuracy and context verification.
-- **Metric:** Achieved **100% safety run completeness** in hallucination resilience testing.
-- **Stack:** `FastAPI` · `Qdrant` · `Docker` · `BM25` · `Python` · `PyTorch`
+### 🤖 AI Engineering & Agentic Systems
+- **Agent Orchestration:** Multi-agent coordination patterns, Manager/Worker hierarchies, proportional orchestration.
+- **Context & Memory Architecture:** Model Context Protocol (MCP), persistent repository context, canonical instruction layers (`AGENTS.md`).
+- **LLM & RAG Systems:** Retrieval-Augmented Generation, context-aware prompt refinement, hallucination mitigation.
 
----
+### ⚡ Data Engineering & Platforms
+- **Distributed Processing:** Apache Spark, PySpark, Databricks.
+- **Data Pipelines:** Automated ETL workflows, asynchronous batch processing, multi-sheet enterprise workbook parsing.
+- **Validation & Transformation:** Schema enforcement, deterministic data cleansing, structured data extraction.
 
-### 💳 [Finova — AI Financial Intelligence & Wealth Engine](https://rudrasharma3.github.io/Portfolio/)
-> **Agentic Personal Finance & Automated Decision Platform**
-- **Architecture:** Intelligent agent workflows for budget prediction, expense classification, and algorithmic portfolio allocation.
-- **Core Features:** Real-time financial data pipelines, anomaly detection on transaction streams, and conversational advisory agents.
-- **Stack:** `Python` · `FastAPI` · `Next.js` · `TailwindCSS` · `PostgreSQL` · `Chart.js`
+### 🏗️ Backend & System Architecture
+- **API & Service Design:** FastAPI, REST APIs, asynchronous request handling.
+- **Data Persistence & Security:** PostgreSQL, Supabase, Row Level Security (RLS), role-based authentication.
+- **Software Practices:** Modular design, Architecture Decision Records (ADRs), contract-first development.
 
----
-
-### 🧹 [DataPurge Studio — Multi-Tenant Data Engine](https://freelance-kappa-orpin.vercel.app/)
-> **Automated Data Cleaning, Validation & Pipeline Preprocessing Suite**
-- **Architecture:** High-throughput batch data engine resolving schema anomalies, missing values, duplicate records, and distributed type formatting.
-- **Impact:** Used in production pipelines for clean ETL ingestion across messy multi-source datasets.
-- **Stack:** `Python` · `Pandas` · `NumPy` · `FastAPI` · `Docker`
+### 📊 Applied Machine Learning
+- **Predictive Modeling:** Supervised learning, Gradient Boosting, ensemble methods.
+- **Feature Engineering:** Domain-specific feature extraction, synthetic dataset generation, genomic risk modeling (Polygenic Risk Scores).
 
 ---
 
-### 🤖 [Birbal 2.0 — Multilingual Enterprise RAG Assistant](https://rudrasharma3.github.io/Portfolio/)
-> **Enterprise Document Intelligence & Multilingual Query System**
-- **Architecture:** Cross-lingual semantic embeddings with dynamic intent routing and prompt boundary isolation.
-- **Stack:** `LangChain` · `FastAPI` · `Vector DB` · `Python` · `Streamlit`
+## 🚀 Featured Engineering Projects
+
+### 1. AI-OS — AI Operating System
+*A repository-native operational layer for AI-assisted software engineering.*
+
+- **Problem:** AI coding assistants rely on ephemeral conversational context. Project architecture, conventions, lessons, and security boundaries become fragmented across different models and chat sessions.
+- **Architecture & System Design:**
+  - **Canonical Source of Truth:** A centralized `AGENTS.md` holds core project constraints, while thin provider adapters (`CLAUDE.md`, `GEMINI.md`, `CODEX.md`) map instructions across tools without duplication.
+  - **Gated Self-Modification:** Agent-proposed preferences and conventions are treated as candidate knowledge, requiring review and validation before promotion into persistent rules.
+  - **Context-Aware Prompt Refinement:** Enriches ambiguous developer prompts with existing architecture, edge cases, typing contracts, and testing requirements before execution.
+  - **Contract-First Multi-Agent Coordination:** A Manager agent establishes type interfaces, API schemas, and component boundaries before Worker agents implement code in parallel.
+  - **Proportional Orchestration:** Scales agent topology dynamically—simple tasks execute as single calls, while complex refactors trigger multi-perspective architectural reviews (Minimalist, Scalability, Security).
+- **Core Philosophy:** *"Don't just use AI to write code. Engineer the environment in which AI writes code."*
+- **Stack:** `Python` · `Git Architecture` · `MCP` · `Markdown Protocol` · `Agent Workflows`
+- **Link:** [Project Repository](https://github.com/RudraSharma3)
 
 ---
 
-## 📊 Engineering Analytics & Activity
+### 2. Enterprise Data & AI Pipelines — BytePX
+*Production data pipelines and document transformation systems.*
 
-<div align="center">
-
-<table border="0">
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=RudraSharma3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="Rudra's GitHub Stats" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=RudraSharma3&theme=tokyonight&hide_border=true" width="100%" alt="Rudra's Streak Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudraSharma3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="80%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-### 🏆 GitHub Achievements & Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=RudraSharma3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-
-</div>
+- **Resume-to-Presentation Automation Pipeline:**
+  - Designed an automated ingestion pipeline processing ~30 documents/day.
+  - Reduced per-document processing latency from roughly 30 minutes of manual formatting to under 20 seconds.
+  - Integrated distributed data handling and enterprise AI parsing services.
+  - **Stack:** `Databricks` · `Apache Spark` · `IBM watsonx` · `Python`
+- **Asynchronous Multi-Sheet Workbook Engine:**
+  - Engineered an asynchronous data processing pipeline handling multi-sheet enterprise workbooks.
+  - Achieved execution runtimes under 2 minutes per workbook with approximately 99.9% processing accuracy across structured data tables.
+  - **Stack:** `Python` · `PySpark` · `AsyncIO` · `Databricks`
 
 ---
 
-## 🤝 Let's Collaborate & Build
+### 3. Vaultic — Financial Command & Intelligence Cockpit
+*A deterministic personal finance platform with integrated AI advisory workflows.*
 
-Whether you are looking for a **production RAG system**, **custom data pipelines**, **full-stack web application**, or **technical guidance for high-impact projects**:
+- **Problem:** Personal finance applications often separate deterministic balance tracking from predictive budgeting tools, resulting in inaccurate simulations.
+- **System Highlights:**
+  - Built on PostgreSQL with Supabase, strictly isolating user data via Row Level Security (RLS).
+  - Deterministic balance and interest calculation engine separated from probabilistic AI recommendation layers.
+  - Interactive scenario simulator evaluating expenditure impact against defined financial goals.
+- **Stack:** `FastAPI` · `PostgreSQL` · `Supabase` · `RLS` · `Next.js` · `TypeScript`
+- **Link:** [Project Repository](https://github.com/RudraSharma3)
 
-<div align="center">
+---
 
-[![Start a Project](https://img.shields.io/badge/Start_a_Project-freelance--kappa--orpin.vercel.app-22D3C7?style=for-the-badge&logo=vercel&logoColor=black)](https://freelance-kappa-orpin.vercel.app/)
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-sharma-3508a227b)
-[![Send Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudrasharma93511@gmail.com)
+### 4. Job Assistant — Decision-Support Platform
+*A privacy-first career decision support and technical role fit platform.*
 
-<br/>
+- **System Highlights:**
+  - Secure document storage engine utilizing Supabase RLS and token-based authentication.
+  - AI-driven gap analysis comparing resume experience with engineering job descriptions to produce structured preparation recommendations.
+  - Focuses on candidate decision support rather than indiscriminate job board auto-application.
+- **Stack:** `Next.js` · `TypeScript` · `Tailwind CSS` · `Supabase` · `PostgreSQL`
+- **Link:** [Project Repository](https://github.com/RudraSharma3)
 
-[![](https://visitcount.itsvg.in/api?id=RudraSharma3&icon=5&color=4C6FFF)](https://visitcount.itsvg.in)
+---
 
-<br/>
+### 5. Polygenic Risk Score Research Platform
+*Machine learning research project for genomic risk profiling and predictive modeling.*
 
-<sub>Crafted with precision for 2026 · Designed for high performance and clean engineering.</sub>
+- **System Highlights:**
+  - Implemented Gradient Boosting algorithms on synthetic patient genomic datasets.
+  - Evaluated polygenic feature weightings to assess susceptibility across multi-factorial traits.
+  - Applied feature importance analysis to identify primary genomic variant contributors.
+- **Stack:** `Python` · `Scikit-Learn` · `Gradient Boosting` · `Pandas` · `NumPy`
 
-</div>
+---
+
+## 💡 Engineering Principles
+
+- **Architecture Before Generation:** AI generation quality is bounded by the precision of system contracts, types, and architectural documentation.
+- **Constrain the Tool:** System constraints, schema validation, and deterministic fallbacks must guard every probabilistic LLM output.
+- **Durable Repository Memory:** Permanent project knowledge belongs in version-controlled repository files, not transient conversational contexts.
+- **Proportional Orchestration:** Reserve complex multi-agent topologies for non-trivial architectural problems; simple tasks should remain simple.
+- **Measurable Verification:** Validate systems against concrete latency, accuracy, and reproducibility metrics rather than assumed generative capability.
+
+---
+
+## 🧰 Technical Stack
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | Python, TypeScript, Java, SQL, JavaScript |
+| **AI & LLM Systems** | LLM Integration, RAG Architectures, AI Agents, MCP (Model Context Protocol), Prompt Refinement |
+| **Data Engineering** | Apache Spark, PySpark, Databricks, Data Pipelines, ETL Workflows |
+| **Backend & Storage** | FastAPI, PostgreSQL, Supabase, Row Level Security (RLS), REST APIs |
+| **Web & Interfaces** | Next.js, React, Tailwind CSS |
+| **Infrastructure & Tools** | Git, GitHub, Docker, Vercel, Architecture Decision Records (ADRs) |
+
+---
+
+## 💼 Experience
+
+### **Data Engineering Intern** — BytePX
+- Developed an automated resume-to-PPT pipeline using Databricks, Apache Spark, and IBM watsonx, cutting document processing time from ~30 minutes to <20 seconds for ~30 documents/day.
+- Built an asynchronous workbook processing pipeline capable of handling complex multi-sheet enterprise datasets in <2 minutes with ~99.9% data accuracy.
+
+---
+
+## 🎓 Education
+
+**B.Tech in Computer Science (Artificial Intelligence & Machine Learning)**  
+*UPES, Dehradun*
+
+---
+
+## 📜 Certifications & Selected Recognitions
+
+- **HackerRank:** Java (Basic) Certified & Java Golden Badge
+- **Job Simulations:** Accenture Software Engineering & Accenture Consulting Simulations
+- **UDYAM'2023:** 1st Runner-Up — Business Case Competition
+- **Community:** Vedanta Foundation Nand Ghar Social Internship
+
+---
+
+## 📬 Contact & Collaboration
+
+I am open to discussions regarding **AI Engineering**, **Agentic Systems**, **Data Platforms**, and **Backend Architecture**.
+
+- **LinkedIn:** [linkedin.com/in/rudra-sharma-3508a227b](https://www.linkedin.com/in/rudra-sharma-3508a227b)
+- **Portfolio:** [rudrasharma3.github.io/Portfolio](https://rudrasharma3.github.io/Portfolio/)
+- **Email:** [rudrasharma93511@gmail.com](mailto:rudrasharma93511@gmail.com)
