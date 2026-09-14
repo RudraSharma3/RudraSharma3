@@ -1,174 +1,190 @@
 <div align="center">
 
-# ⚡ Rudra Sharma
-### **AI & Data Engineer · Full-Stack Builder · Automation Architect**
+<!-- Animated Hero Banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header.svg">
+  <img src="./assets/header.svg" width="100%" alt="Rudra Sharma - AI & Data Engineer" />
+</picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=3000&pause=1000&color=22D3C7&center=true&vCenter=true&width=650&lines=Building+Production+RAG+%26+AI+Agents;Architecting+Data+Pipelines+%26+Automation;Creator+of+VoxContextEngine+%26+Finova;Turning+Complex+Problems+Into+Clean+Solutions)](https://rudrasharma3.github.io/Portfolio/)
+<br/>
 
+<!-- Dynamic Interactive Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=19&duration=2800&pause=900&color=22D3C7&center=true&vCenter=true&width=680&lines=⚡+Engineering+Durable+Multi-Agent+AI-OS+Platforms;⚡+Building+Context-Locked+RAG+with+Qdrant+%26+BM25;⚡+Architecting+Distributed+Pipelines+with+Spark+%26+Databricks;⚡+FastAPI+Microservices+with+PostgreSQL+RLS)](https://rudrasharma3.github.io/Portfolio/)
+
+<br/>
+
+<!-- Modern Sleek Connect Pill Links (No outdated blocky shields) -->
 <p align="center">
-  <a href="https://rudrasharma3.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-rudrasharma.dev-4C6FFF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://freelance-kappa-orpin.vercel.app/"><img src="https://img.shields.io/badge/Freelance_Platform-Live_Services-22D3C7?style=for-the-badge&logo=vercel&logoColor=black" alt="Freelance Site" /></a>
-  <a href="https://www.linkedin.com/in/rudra-sharma-3508a227b"><img src="https://img.shields.io/badge/LinkedIn-Rudra_Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rudrasharma93511@gmail.com"><img src="https://img.shields.io/badge/Email-rudrasharma93511@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://rudrasharma3.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-rudrasharma.dev-0D1117?style=flat-square&logo=googlechrome&logoColor=22D3C7&labelColor=161B22" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://freelance-kappa-orpin.vercel.app/">
+    <img src="https://img.shields.io/badge/⚡_Freelance_Platform-Live_Services-0D1117?style=flat-square&logo=vercel&logoColor=34D399&labelColor=161B22" alt="Freelance Site" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/rudra-sharma-3508a227b">
+    <img src="https://img.shields.io/badge/👔_LinkedIn-Rudra_Sharma-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=161B22" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:rudrasharma93511@gmail.com">
+    <img src="https://img.shields.io/badge/✉️_Email-rudrasharma93511@gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=161B22" alt="Email" />
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects%20%26%20Freelance-34D399?style=flat-square&logo=signal&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/Location-Jaipur%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3-8B5CF6?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-Production%20AI%20%26%20RAG-4C6FFF?style=flat-square" alt="Focus" />
-</p>
-
----
 
 </div>
 
-## 👨‍💻 Executive Summary
+---
 
-I am an **AI & Data Engineer** specializing in **Retrieval-Augmented Generation (RAG)**, **distributed data pipelines**, **machine learning workflows**, and **high-performance backend architectures**.
+### 👨‍💻 Executive Summary
 
-- 🔭 **Current Focus:** Document-grounded AI systems, hybrid vector search (Qdrant + BM25), and agentic workflows.
-- 💼 **Freelance & Consulting:** Successfully delivered **15+ custom solutions** across AI integration, automated data engines, Next.js web applications, and career positioning technology.
-- 💡 **Engineering Philosophy:** *"Understand the problem before touching the solution."* Practical execution, clean architecture, and production-grade reliability over ungrounded hype.
-- 💬 **Ask Me About:** FastAPI, RAG evaluation suites, Vector Databases, MLflow, Dockerized microservices, Next.js, and PyTorch.
+I am an **AI & Data Engineer** specializing in **Retrieval-Augmented Generation (RAG)**, **distributed data pipelines**, and **contract-first multi-agent systems**.
+
+- 🔭 **Current Focus:** Engineering **AI-OS** (a repository-native operational layer for AI coding agents) and hybrid vector retrieval engines.
+- 💼 **Production Experience:** Built distributed automation and workbook ingestion pipelines at **BytePX** using **Databricks**, **Apache Spark**, and **IBM watsonx**; delivered **15+ custom solutions** across AI workflows and web platforms.
+- 💡 **Core Philosophy:** *"Don't just use AI to write code. Engineer the environment in which AI writes code."*
+- 💬 **Ask Me About:** FastAPI, RAG evaluation suites, Vector Databases, Spark/Databricks, Dockerized microservices, and Next.js 15.
 
 ---
 
-## 🛠️ 2026 Tech Matrix
+### 🛠️ Interactive Tech Stack
+
+<div align="center">
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,postgres,docker,nextjs,react,ts,tailwind,gcp,git&theme=dark" alt="Rudra's Skills Matrix" />
+  </a>
+</p>
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">🤖 AI, ML & Vector Retrieval</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/Qdrant-DC2626?style=flat-square&logo=qdrant&logoColor=white" />
-        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/SHAP-Explainable_AI-22D3C7?style=flat-square" />
-      </p>
+      <h4>🤖 AI, LLM &amp; Vector Search</h4>
+      <code>PyTorch</code> · <code>TensorFlow</code> · <code>LangChain</code> · <code>Qdrant</code><br/>
+      <code>Hugging Face</code> · <code>Scikit-Learn</code> · <code>OpenCV</code> · <code>MLflow</code> · <code>SHAP</code>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">⚡ Backend & Data Pipelines</h3>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" />
-        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-      </p>
+      <h4>⚡ Data &amp; Distributed Backend</h4>
+      <code>Apache Spark</code> · <code>PySpark</code> · <code>Databricks</code> · <code>FastAPI</code><br/>
+      <code>PostgreSQL RLS</code> · <code>Supabase</code> · <code>AsyncIO</code> · <code>Pandas</code> · <code>NumPy</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">🎨 Frontend & Visualization</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-        <img src="https://img.shields.io/badge/Chart.js-F5788D?style=flat-square&logo=chart.js&logoColor=white" />
-      </p>
+      <h4>🎨 Frontend &amp; Interfaces</h4>
+      <code>Next.js 15</code> · <code>React</code> · <code>TypeScript</code> · <code>Tailwind CSS</code><br/>
+      <code>Streamlit</code> · <code>Chart.js</code> · <code>JavaScript</code>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">🗄️ Databases, Cloud & DevOps</h3>
-      <p>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-      </p>
+      <h4>🗄️ Cloud, DevOps &amp; Protocols</h4>
+      <code>Docker</code> · <code>Google Cloud (GCP)</code> · <code>Model Context Protocol (MCP)</code><br/>
+      <code>Git</code> · <code>GitHub Actions</code> · <code>ADRs</code> · <code>Vercel</code>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 🚀 Featured Engineering Systems
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/RudraSharma3">AI-OS — AI Operating System</a></h3>
+      <p><em>Repository-native operational layer for AI-assisted engineering.</em></p>
+      <ul>
+        <li><b>Canonical Source of Truth:</b> Centralized <code>AGENTS.md</code> with lightweight provider adapters (<code>CLAUDE.md</code>, <code>GEMINI.md</code>, <code>CODEX.md</code>).</li>
+        <li><b>Gated Self-Modification:</b> Rule-gated candidate lessons evaluated before persistent promotion.</li>
+        <li><b>Contract-First Orchestration:</b> Manager/Worker agent topology establishing interface contracts before code generation.</li>
+      </ul>
+      <p><b>Stack:</b> <code>Python</code> · <code>MCP</code> · <code>Agent Protocols</code> · <code>Git</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://rudrasharma3.github.io/Portfolio/">VoxContextEngine — Hybrid RAG</a></h3>
+      <p><em>Context-locked RAG platform with automated hallucination defense.</em></p>
+      <ul>
+        <li><b>Hybrid Retrieval:</b> Dense vector search (<b>Qdrant</b> + <code>all-MiniLM-L6-v2</code>) fused with sparse keyword search (<b>Rank-BM25</b>).</li>
+        <li><b>Verification Harness:</b> Built automated benchmark testing context completeness.</li>
+        <li><b>Metric:</b> 100% safety run completeness in hallucination validation.</li>
+      </ul>
+      <p><b>Stack:</b> <code>FastAPI</code> · <code>Qdrant</code> · <code>Docker</code> · <code>BM25</code> · <code>Python</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💳 <a href="https://rudrasharma3.github.io/Portfolio/">Vaultic — Financial Intelligence Engine</a></h3>
+      <p><em>Deterministic finance platform with AI advisory co-pilot.</em></p>
+      <ul>
+        <li><b>Data Isolation:</b> PostgreSQL engine with Supabase Row Level Security (RLS).</li>
+        <li><b>Hybrid Core:</b> Separates deterministic math from probabilistic AI advisory agents.</li>
+        <li><b>Scenario Sim:</b> Real-time cash flow &amp; goal affordability simulator.</li>
+      </ul>
+      <p><b>Stack:</b> <code>FastAPI</code> · <code>PostgreSQL</code> · <code>Supabase</code> · <code>Next.js 15</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧹 <a href="https://freelance-kappa-orpin.vercel.app/">DataPurge Studio — Data Engine</a></h3>
+      <p><em>Multi-tenant data cleaning &amp; pipeline preprocessing platform.</em></p>
+      <ul>
+        <li><b>High-Throughput ETL:</b> Automated detection of schema anomalies, duplicates, and missing values.</li>
+        <li><b>Production Ingestion:</b> Clean ingestion pipelines for multi-source datasets.</li>
+      </ul>
+      <p><b>Stack:</b> <code>Python</code> · <code>Pandas</code> · <code>NumPy</code> · <code>FastAPI</code> · <code>Docker</code></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Flagship Projects
-
-### 🧠 [VoxContextEngine — Hybrid RAG Platform](https://rudrasharma3.github.io/Portfolio/)
-> **Context-Locked Retrieval-Augmented Generation Platform with Hallucination Defense**
-- **Architecture:** Hybrid search engine pairing dense vector similarity (**Qdrant**, `all-MiniLM-L6-v2`, HNSW indexing) with sparse keyword retrieval (**Rank-BM25**).
-- **Core Features:** Automated evaluation harness for ingestion accuracy and context verification.
-- **Metric:** Achieved **100% safety run completeness** in hallucination resilience testing.
-- **Stack:** `FastAPI` · `Qdrant` · `Docker` · `BM25` · `Python` · `PyTorch`
-
----
-
-### 💳 [Finova — AI Financial Intelligence & Wealth Engine](https://rudrasharma3.github.io/Portfolio/)
-> **Agentic Personal Finance & Automated Decision Platform**
-- **Architecture:** Intelligent agent workflows for budget prediction, expense classification, and algorithmic portfolio allocation.
-- **Core Features:** Real-time financial data pipelines, anomaly detection on transaction streams, and conversational advisory agents.
-- **Stack:** `Python` · `FastAPI` · `Next.js` · `TailwindCSS` · `PostgreSQL` · `Chart.js`
-
----
-
-### 🧹 [DataPurge Studio — Multi-Tenant Data Engine](https://freelance-kappa-orpin.vercel.app/)
-> **Automated Data Cleaning, Validation & Pipeline Preprocessing Suite**
-- **Architecture:** High-throughput batch data engine resolving schema anomalies, missing values, duplicate records, and distributed type formatting.
-- **Impact:** Used in production pipelines for clean ETL ingestion across messy multi-source datasets.
-- **Stack:** `Python` · `Pandas` · `NumPy` · `FastAPI` · `Docker`
-
----
-
-### 🤖 [Birbal 2.0 — Multilingual Enterprise RAG Assistant](https://rudrasharma3.github.io/Portfolio/)
-> **Enterprise Document Intelligence & Multilingual Query System**
-- **Architecture:** Cross-lingual semantic embeddings with dynamic intent routing and prompt boundary isolation.
-- **Stack:** `LangChain` · `FastAPI` · `Vector DB` · `Python` · `Streamlit`
-
----
-
-## 📊 Engineering Analytics & Activity
+### 📊 GitHub Activity & Real-Time Metrics
 
 <div align="center">
 
 <table border="0">
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=RudraSharma3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="Rudra's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=RudraSharma3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0D14&title_color=22D3C7&icon_color=4C6FFF&text_color=94A3B8&count_private=true&include_all_commits=true" width="100%" alt="Rudra's GitHub Stats" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=RudraSharma3&theme=tokyonight&hide_border=true" width="100%" alt="Rudra's Streak Stats" />
+      <img src="https://streak-stats.demolab.com?user=RudraSharma3&theme=tokyonight&hide_border=true&background=0A0D14&ring=22D3C7&fire=4C6FFF&currStreakLabel=22D3C7" width="100%" alt="Rudra's Streak Stats" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudraSharma3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="80%" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudraSharma3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0D14&title_color=22D3C7&text_color=94A3B8&langs_count=8" width="75%" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-### 🏆 GitHub Achievements & Trophies
+### 🏆 GitHub Trophies Showcase
 <img src="https://github-profile-trophy.vercel.app/?username=RudraSharma3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-## 🤝 Let's Collaborate & Build
-
-Whether you are looking for a **production RAG system**, **custom data pipelines**, **full-stack web application**, or **technical guidance for high-impact projects**:
+### 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
-[![Start a Project](https://img.shields.io/badge/Start_a_Project-freelance--kappa--orpin.vercel.app-22D3C7?style=for-the-badge&logo=vercel&logoColor=black)](https://freelance-kappa-orpin.vercel.app/)
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-sharma-3508a227b)
-[![Send Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudrasharma93511@gmail.com)
+<p align="center">
+  <a href="https://freelance-kappa-orpin.vercel.app/">
+    <img src="https://img.shields.io/badge/⚡_Start_a_Project-freelance--kappa--orpin.vercel.app-22D3C7?style=flat-square&logo=vercel&logoColor=000&labelColor=161B22" alt="Start a Project" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/rudra-sharma-3508a227b">
+    <img src="https://img.shields.io/badge/👔_Connect_on_LinkedIn-Rudra_Sharma-0077B5?style=flat-square&logo=linkedin&logoColor=fff&labelColor=161B22" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:rudrasharma93511@gmail.com">
+    <img src="https://img.shields.io/badge/✉️_Send_Email-rudrasharma93511@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=fff&labelColor=161B22" alt="Email" />
+  </a>
+</p>
 
 <br/>
 
@@ -176,6 +192,6 @@ Whether you are looking for a **production RAG system**, **custom data pipelines
 
 <br/>
 
-<sub>Crafted with precision for 2026 · Designed for high performance and clean engineering.</sub>
+<sub>Crafted with custom animated SVGs &amp; Tokyo Night dark glass aesthetic.</sub>
 
 </div>
