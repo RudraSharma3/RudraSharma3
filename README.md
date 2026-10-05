@@ -1,154 +1,185 @@
-<!-- ═══════════ HERO ═══════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,50:0F766E,100:22D3C7&text=Rudra%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=AI%20%26%20Data%20Engineer%20%C2%B7%20Systems%20Architect&descSize=20&descAlignY=56&animation=fadeIn" width="100%" alt="Rudra Sharma banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:22D3C7&height=200&section=header&text=RUDRA%20SHARMA&fontSize=52&fontColor=E2F5F3&fontAlignY=38&desc=AI%20%C3%97%20DATA%20%C3%97%20SYSTEMS&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
 
-<a href="https://rudrasharma3.github.io/Portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&duration=3000&pause=1000&color=22D3C7&center=true&vCenter=true&width=620&lines=Building+Production+RAG+%26+Multi-Agent+AI-OS;Distributed+Pipelines+with+Spark+%26+Databricks;FastAPI+Microservices+with+PostgreSQL+RLS;Turning+Complex+Problems+Into+Clean+Solutions" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1100&color=22D3C7&center=true&vCenter=true&width=650&lines=Architecting+production+RAG+%26+multi-agent+systems;Building+distributed+data+pipelines+on+Spark+%2F+Databricks;Shipping+FastAPI+services+backed+by+PostgreSQL+RLS;Engineer+the+environment+in+which+AI+writes+code.)](https://rudrasharma3.github.io/Portfolio/)
 
-<br/><br/>
+<p>
+  <a href="https://rudrasharma3.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-rudrasharma.dev-0F172A?style=for-the-badge&logo=firefox&logoColor=22D3C7" /></a>
+  <a href="https://freelance-kappa-orpin.vercel.app/"><img src="https://img.shields.io/badge/CLIENT_WORK-live_services-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3C7" /></a>
+  <a href="https://www.linkedin.com/in/rudra-sharma-3508a227b"><img src="https://img.shields.io/badge/LINKEDIN-rudra--sharma-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="mailto:rudrasharma93511@gmail.com"><img src="https://img.shields.io/badge/EMAIL-say_hello-0F172A?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
+</p>
 
-<img src="https://img.shields.io/badge/●_Building-AI--OS-8B5CF6?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/●_Learning-Git_%26_GitHub_at_scale-22D3C7?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/●_Shipping-DataPurge_Studio-34D399?style=flat-square&labelColor=0D1117" />
-
-<br/><br/>
-
-<a href="https://github.com/RudraSharma3"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/rudra-sharma-3508a227b"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" /></a>
-<a href="mailto:rudrasharma93511@gmail.com"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
-<a href="https://rudrasharma3.github.io/Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=22D3C7" /></a>
-<a href="https://freelance-kappa-orpin.vercel.app/"><img src="https://img.shields.io/badge/-Freelance-0D1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-
-<br/><br/>
-
-<sub><i>"Don't just use AI to write code. Engineer the environment in which AI writes code."</i></sub>
+<sub>Jaipur, India · B.Tech CS (AI/ML), UPES Dehradun · Azure AI Engineer Associate · Open to AI & Data Engineering roles</sub>
 
 </div>
 
 <br/>
 
-<!-- ═══════════ IMPACT TILES (replaces stars/followers row) ═══════════ -->
-<div align="center">
+## → System Overview
 
-<img src="https://img.shields.io/badge/15x--20x-Pipeline_Speedup-0D1117?style=for-the-badge&labelColor=22D3C7&color=0D1117" />
-<img src="https://img.shields.io/badge/99.9%25-Processing_Accuracy-0D1117?style=for-the-badge&labelColor=34D399&color=0D1117" />
-<img src="https://img.shields.io/badge/95%25-Latency_Reduction-0D1117?style=for-the-badge&labelColor=8B5CF6&color=0D1117" />
-<img src="https://img.shields.io/badge/500K%2B-Records_Modeled-0D1117?style=for-the-badge&labelColor=4C6FFF&color=0D1117" />
+I design and ship **AI-native backend systems** — retrieval pipelines, multi-agent orchestration, and the data infrastructure underneath them. My work sits at the intersection of three layers:
 
-</div>
+```
+┌───────────────────────────────────────────────┐
+│  DATA LAYER      Spark · Databricks · Delta    │
+│  AI LAYER        RAG · Qdrant · BM25 · LLMs    │
+│  SYSTEMS LAYER   FastAPI · PostgreSQL · Agents │
+└───────────────────────────────────────────────┘
+```
+
+> *"Don't just use AI to write code — engineer the environment in which AI writes code."*
+
+That's the principle behind **AI-OS**, my repo-native operating layer for agentic development, and it shapes how I approach every system below: contracts before code, verification before shipping.
 
 <br/>
 
-## ⚡ About
-
-Computer Science (AIML) engineer specializing in **Retrieval-Augmented Generation**, **distributed data pipelines**, and **contract-first multi-agent systems**. Associate ML Engineer at **BytePX** (from Oct 2026, after a Data Engineering internship), based in Jaipur 🇮🇳.
-
-- 🏭 **BytePX:** DataPurge Studio SaaS (< 2 min workbooks, 99.9% accuracy), Spark & Databricks automation (-90% parse time), SHAP-explained Random Forests on IBM watsonx
-- 🤖 **UltraTech Cement [Birla White]:** Birbal 2.0, multilingual enterprise RAG (-95% latency)
-- 🧪 **SmartBridge:** GenAI architectures with Gemini across VAEs, GANs, BERT, LSTMs
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,postgres,supabase,docker,git,github,gcp,azure,nextjs,react,ts,tailwind&theme=dark&perline=9" alt="Tech stack" />
-
-</div>
+## → Currently Building
 
 | | |
 |---|---|
-| **🤖 AI / ML** | PyTorch · Scikit-learn · XGBoost · LangChain · RAG · Qdrant · BM25 · TensorFlow · SHAP |
-| **⚡ Data Eng** | Apache Spark · PySpark · Databricks · Delta Lake · ETL/ELT · Pandas · NumPy |
-| **🏗️ Backend & Cloud** | FastAPI · Flask · PostgreSQL · Supabase (RLS) · Azure · Google Cloud · Docker |
-| **🎨 Interfaces** | Next.js 15 · React · TypeScript · Tailwind · Streamlit · Chart.js |
+| 🧠 | **AI-OS** — a manager/worker multi-agent topology that negotiates interface contracts before any code generation begins, with a canonical `AGENTS.md` and gated, rule-checked promotion of lessons into repo memory |
+| ⚡ | **VoxContextEngine** — a hybrid retrieval engine fusing dense vector search (Qdrant + `all-MiniLM-L6-v2`) with sparse BM25, wrapped in an automated hallucination-verification harness |
 
----
+<br/>
 
-## 🚀 Featured Projects
+## → Stack
+
+<div align="center">
+
+**AI / ML**
+<br/>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Data Engineering**
+<br/>
+![Apache Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Backend & Cloud**
+<br/>
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Interfaces**
+<br/>
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</div>
+
+<br/>
+
+## → Featured Systems
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [AI-OS](https://github.com/RudraSharma3)
-Repository-native operating layer for AI coding agents. One canonical `AGENTS.md`, thin adapters for Claude / Gemini / Codex, gated self-modification, and Manager/Worker contract-first orchestration.
+**🧠 [AI-OS](https://github.com/RudraSharma3)**
+<br/>Repository-native operational layer for agentic engineering.
+- Canonical `AGENTS.md` with thin provider adapters (`CLAUDE.md`, `GEMINI.md`, `CODEX.md`)
+- Gated self-modification — candidate lessons are rule-checked before promotion to repo memory
+- Manager/worker topology that locks interface contracts before generation
 
 `Python` `MCP` `Agent Protocols` `Git`
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ [VoxContextEngine](https://rudrasharma3.github.io/Portfolio/)
-Hybrid RAG platform: Qdrant dense search fused with Rank-BM25, plus an automated hallucination-defense harness (100% safety run completeness).
+**⚡ [VoxContextEngine](https://rudrasharma3.github.io/Portfolio/)**
+<br/>Production hybrid-RAG platform with hallucination defense.
+- Dense retrieval (Qdrant + `all-MiniLM-L6-v2`) fused with sparse BM25
+- Automated verification harness — 100% safety-run completeness on hallucination tests
+- Async FastAPI serving layer, containerized
 
-`Python` `FastAPI` `Qdrant` `Docker`
+`Python` `FastAPI` `Qdrant` `Docker` `BM25`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧹 [DataPurge Studio SaaS](https://freelance-kappa-orpin.vercel.app/)
-Async multi-tenant data cleansing engine built at BytePX. Multi-sheet workbooks in under 2 minutes at 99.9% accuracy via `io.BytesIO` streaming and `rapidfuzz`.
+**🧹 [DataPurge Studio](https://freelance-kappa-orpin.vercel.app/)**
+<br/>Async multi-tenant data-cleansing SaaS, built at BytePX.
+- Multi-sheet workbooks processed in **<2 min at 99.9% accuracy** (15–20× speedup)
+- `io.BytesIO` streaming + dynamic type downcasting + `rapidfuzz` (C++ layer) for 10× faster fuzzy matching
 
-`Python` `FastAPI` `PostgreSQL` `RapidFuzz`
+`Python` `FastAPI` `PostgreSQL` `Starlette` `RapidFuzz`
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [Birbal 2.0](https://rudrasharma3.github.io/Portfolio/)
-Multilingual (Hindi-English) enterprise RAG assistant for UltraTech Cement. Async NLP pipelines cut response latency by 95%.
+**🤖 [Birbal 2.0](https://rudrasharma3.github.io/Portfolio/)**
+<br/>Multilingual enterprise RAG assistant for UltraTech Cement (Birla White).
+- Async NLP pipelines cut query latency by **95%**
+- Native Hindi–English context tracking, boosting query efficiency by **60%**
 
-`Python` `FastAPI` `LangChain` `NLP`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 📦 [Delivery Date Prediction](https://github.com/RudraSharma3)
-XGBoost ETA forecasting across 500K+ e-commerce shipment records with supply-chain-aware feature scaling pipelines.
-
-`Python` `XGBoost` `Scikit-learn` `Pandas`
+`Python` `FastAPI` `LangChain` `RAG` `NLP`
 
 </td>
 </tr>
 </table>
 
----
+<details>
+<summary><b>📦 Delivery Date Prediction — 500K+ records</b></summary>
+<br/>
 
-## 💼 Experience
+E-commerce supply-chain ETA forecasting engine. Tuned an **XGBoost** model across 500K+ historical shipment records with feature-scaling pipelines built around real supply-chain constraints, reducing ETA variance.
 
-| Role | Where | When |
-|---|---|---|
-| **Associate ML Engineer** | BytePX | Oct 2026 – Present |
-| **Data Engineering Intern** | BytePX | Mar 2026 – Sep 2026 |
-| **AI & ML Intern** | UltraTech Cement [Birla White] | Jun – Jul 2025 |
-| **Generative AI Intern** | SmartBridge | Jun – Jul 2025 |
+`Python` `XGBoost` `Scikit-learn` `Pandas`
+</details>
 
-🎓 **B.Tech CSE (AI & ML), UPES**, CGPA 8.0 · 📜 **Azure AI Engineer Associate** · ☁️ 25+ Google Cloud Skill Badges · 🧩 120+ LeetCode problems
+<br/>
 
----
+## → Experience
 
-## 📊 GitHub Activity
+```text
+BytePX                              Data Engineering Intern       Mar 2026 — Present
+UltraTech Cement [Birla White]      AI & ML Intern                Jun 2025 — Jul 2025
+SmartBridge                         Generative AI Intern          Jun 2025 — Jul 2025
+```
+
+- **BytePX** — Architected DataPurge Studio; built Databricks/Spark automation cutting document-processing time by 90%; trained client Random Forest models with SHAP explainability (50% overhead reduction), deployed on IBM watsonx; mentored 2 junior engineers on Spark & Databricks.
+- **UltraTech Cement** — Engineered Birbal 2.0, a bilingual RAG chatbot, cutting response latency 95% and boosting query efficiency 60%.
+- **SmartBridge** — Built GenAI architectures with Google Gemini APIs across VAEs, GANs, BERT, and LSTMs.
+
+<br/>
+
+## → Education & Credentials
+
+- **B.Tech, Computer Science (AI/ML)** — UPES Dehradun · CGPA 8.0/10 · 2022–2026
+- **Microsoft Certified: Azure AI Engineer Associate** — `957CF25F904A0B46`
+- 25+ Google Cloud Skill Badges · 120+ DSA problems on LeetCode · HackerRank Java Gold
+
+<br/>
+
+## → Activity
+
+<div align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=RudraSharma3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com?user=RudraSharma3&theme=tokyonight&hide_border=true" width="49%" alt="GitHub streak" />
+</div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RudraSharma3&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=22D3C7&icon_color=34D399&text_color=C9D1D9" width="49%" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com?user=RudraSharma3&hide_border=true&background=0D1117&ring=22D3C7&fire=34D399&currStreakLabel=22D3C7&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="49%" alt="Streak stats" />
+**[Portfolio](https://rudrasharma3.github.io/Portfolio/)** · **[Client Work](https://freelance-kappa-orpin.vercel.app/)** · **[LinkedIn](https://www.linkedin.com/in/rudra-sharma-3508a227b)** · **[Email](mailto:rudrasharma93511@gmail.com)**
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RudraSharma3&bg_color=0D1117&color=22D3C7&line=34D399&point=FFFFFF&area=true&area_color=22D3C7&hide_border=true&title_color=22D3C7" width="98%" alt="Contribution graph" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=RudraSharma3&color=22D3C7&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:22D3C7,50:0F766E,100:0D1117" width="100%" alt="" />
+<img src="https://komarev.com/ghpvc/?username=RudraSharma3&color=22D3C7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
