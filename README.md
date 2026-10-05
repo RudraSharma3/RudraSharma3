@@ -148,7 +148,7 @@ E-commerce supply-chain ETA forecasting engine. Tuned an **XGBoost** model acros
 ## → Experience
 
 ```text
-BytePX                              Data Engineering Intern       Mar 2026 — Present
+BytePX                              Associate ML Engineer         Mar 2026 — Present
 UltraTech Cement [Birla White]      AI & ML Intern                Jun 2025 — Jul 2025
 SmartBridge                         Generative AI Intern          Jun 2025 — Jul 2025
 ```
